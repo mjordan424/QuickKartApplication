@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-
+using QuickKartDAL;
 namespace QuickKartMVCApp
 {
     public class Startup
@@ -33,6 +33,9 @@ namespace QuickKartMVCApp
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.Add(new ServiceDescriptor(typeof(IQuickKartRepository), new QuickKartRepository()));
+            //services.AddSingleton<QuickKartRepository>(new QuickKartRepository(new QuickKartDBContext()));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -58,6 +61,8 @@ namespace QuickKartMVCApp
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            //app.UseQuickKartRepository();
         }
     }
 }

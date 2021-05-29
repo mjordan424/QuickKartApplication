@@ -1,0 +1,11 @@
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\bin\Debug\netcoreapp2.1\QuickKartDAL.deps.json
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\bin\Debug\netcoreapp2.1\QuickKartDAL.dll
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\bin\Debug\netcoreapp2.1\QuickKartDAL.pdb
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\obj\Debug\netcoreapp2.1\QuickKartDAL.csprojAssemblyReference.cache
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\obj\Debug\netcoreapp2.1\QuickKartDAL.csproj.CoreCompileInputs.cache
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\obj\Debug\netcoreapp2.1\QuickKartDAL.AssemblyInfoInputs.cache
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\obj\Debug\netcoreapp2.1\QuickKartDAL.AssemblyInfo.cs
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\obj\Debug\netcoreapp2.1\QuickKartDAL.dll
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\obj\Debug\netcoreapp2.1\QuickKartDAL.pdb
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\bin\Debug\netcoreapp2.1\QuickKartDAL.runtimeconfig.json
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\QuickKartDAL\bin\Debug\netcoreapp2.1\QuickKartDAL.runtimeconfig.dev.json

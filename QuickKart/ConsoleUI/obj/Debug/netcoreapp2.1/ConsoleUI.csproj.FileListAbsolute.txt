@@ -1,0 +1,15 @@
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.deps.json
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.runtimeconfig.json
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.runtimeconfig.dev.json
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.dll
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\bin\Debug\netcoreapp2.1\ConsoleUI.pdb
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.csprojAssemblyReference.cache
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.AssemblyInfoInputs.cache
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.AssemblyInfo.cs
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.dll
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.pdb
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\bin\Debug\netcoreapp2.1\appsettings.json
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\bin\Debug\netcoreapp2.1\QuickKartDAL.dll
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\bin\Debug\netcoreapp2.1\QuickKartDAL.pdb
+E:\VisualStud2017\CoreProject\QuickKartApplication\QuickKart\ConsoleUI\obj\Debug\netcoreapp2.1\ConsoleUI.csproj.CopyComplete
